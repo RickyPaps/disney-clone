@@ -8,7 +8,7 @@
   <a href="https://github.com/RickyPaps/disney-clone">
 </a>
 
-<h3 align="center">React Github Dashboard</h3>
+<h3 align="center">React Disney+ clone!</h3>
 
   <p align="center">
     project_description
@@ -50,6 +50,9 @@ React Disney+ Clone that utilizes React, Redux, Firebase and Styled Compoents.
 ### Built With
 
 * [React.js](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Firebase](https://firebase.google.com/)
+* [Styled Components](https://styled-components.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
